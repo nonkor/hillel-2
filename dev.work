@@ -1,0 +1,14 @@
+some code from dev
+fix1
+fix2
+fix3 # add comment here
+fix4
+fix5
+
+def init
+  @x = 0 # by default
+end
+
+def some_method
+  x = '25' # updated comment
+end
