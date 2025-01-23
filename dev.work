@@ -10,5 +10,5 @@ def init
 end
 
 def some_method
-  x = '20' # comment
+  x = '20' # updated comment
 end
