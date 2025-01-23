@@ -4,3 +4,7 @@ fix2
 fix3 # add comment here
 fix4
 fix5
+
+def some_method
+  x = 10 # comment
+end
